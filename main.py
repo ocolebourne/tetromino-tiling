@@ -14,10 +14,10 @@
 
     In the assessment of the coursework the solver was tested with three different 
     targets of varying size and density.
+
 """
 
 # example target, a 20by20 0.6 density:
-
 target = [
     [1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0],
     [1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0],
